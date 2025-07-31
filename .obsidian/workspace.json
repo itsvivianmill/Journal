@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +182,11 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
-    "docs/Glossary/git.md",
-    "docs/index.md",
     "docs/Projects/Github CICD Workflow.md.md",
+    "docs/Glossary/git.md",
+    "Excalidraw/Drawing 2025-07-30 21.57.54.excalidraw.md",
+    "Excalidraw",
+    "docs/index.md",
     "docs/Projects",
     "docs/Glossary/Untitled",
     "docs/Welcome.md",
