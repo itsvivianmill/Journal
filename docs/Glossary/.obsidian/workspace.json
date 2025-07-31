@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b00d65cf0453bae",
+        "id": "8d502c365643a4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ae74458259ba4a43",
+            "id": "7d49a031f0e47b09",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,6 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d9fa10ecb3b9482",
-  "lastOpenFiles": []
+  "active": "7d49a031f0e47b09",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-30 20.30.55.excalidraw.md",
+    "Excalidraw"
+  ]
 }
