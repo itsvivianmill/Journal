@@ -5,8 +5,9 @@ tags:
   - informational
 Creation date: Saturday August 2nd 2025
 ---
-## How to Resolve an Issue in Github
+## How to Resolve an Issue in GitHub
 
+### Set-up the environment
 1. Create a New Issues
 2. Assign Issues
 3. Create a different branch
@@ -14,15 +15,15 @@ Creation date: Saturday August 2nd 2025
 	2. Create a branch
 4. Click Code
 	1. SSH
-	2. Copy and Paste the github link
+	2. Copy and Paste the GitHub link
 5. On the terminal
 	1. git clone [link]
 6. Switch to Issue branch
 	1. git switch [branch name]
-	2. code . (VSCode must be installed)
+	2. code . (Visual Studio Code must be installed)
 	    Or
 	3. code .
-	4. Select the desired branch at the bottom right corner of the VSCode screen
+	4. Select the desired branch at the bottom right corner of the VS-Code screen
 7. Fix Issue
 8. Click Source Control
 	1. Add message, stage request, and commit
