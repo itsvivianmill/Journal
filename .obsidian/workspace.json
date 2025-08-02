@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "templates/Quick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Quick"
             }
           }
         ]
@@ -182,13 +182,14 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
+    "docs/index.md",
+    "templates/Quick.md",
+    "templates",
     "docs/Projects/Github CICD Workflow.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Glossary/git.md",
-    "docs/index.md",
     "[Growlf.md",
     "[Growlf]().md",
-    "Untitled",
     "Excalidraw/Drawing 2025-07-30 21.57.54.excalidraw.md",
     "Excalidraw",
     "docs/Projects",
