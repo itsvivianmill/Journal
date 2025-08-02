@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Quick.md",
+                "file": "docs/Projects/Github CICD Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick"
+              "title": "Github CICD Workflow"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
+    "docs/Projects/Untitled.md",
+    "docs/Projects/Github CICD Workflow.md",
     "docs/index.md",
     "templates/Quick.md",
     "templates",
-    "docs/Projects/Github CICD Workflow.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Glossary/git.md",
     "[Growlf.md",
