@@ -5,9 +5,9 @@ tags:
   - informational
 Creation date: Saturday August 2nd 2025
 ---
-## How to Resolve an Issue in GitHub
+##  How to Resolve an Issue in GitHub
 
-### Set-up the environment
+#### Set-up the environment
 1. Create a New Issues
 2. Assign Issues
 3. Create a different branch
@@ -24,11 +24,13 @@ Creation date: Saturday August 2nd 2025
 	    Or
 	3. code .
 	4. Select the desired branch at the bottom right corner of the VS-Code screen
-7. Fix Issue
-8. Click Source Control
+#### Resolve 
+1. Fix Issue
+#### Wrap-Up the Resolved Issue
+1. Click Source Control
 	1. Add message, stage request, and commit
-9. Pull request the solution
+2. Pull request the solution
 	1. Assign someone to review the code
 	2. Add important information of what was changed
-10. Review solution with a different person
-11. Commit solution to main branch after approval
+3. Review solution with a different person
+4. Commit solution to main branch after approval
