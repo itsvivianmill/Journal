@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Glossary/git.md",
+                "file": "docs/Projects/Github CICD Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "Github CICD Workflow"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -182,11 +182,11 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
-    "docs/Projects/Github CICD Workflow.md",
-    "docs/Glossary/git.md",
     "docs/Glossary/GitHub-Quartz-Obsidian.md",
-    "docs/index.md",
+    "docs/Glossary/git.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
+    "docs/Projects/Github CICD Workflow.md",
+    "docs/index.md",
     "templates/Quick.md",
     "docs/Projects/Untitled.md",
     "templates",
