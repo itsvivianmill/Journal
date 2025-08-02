@@ -1,6 +1,6 @@
 ---
 tags:
-  - documentation
+  - informational
 Creation date: Wednesday July 30th 2025
 ---
 ---
