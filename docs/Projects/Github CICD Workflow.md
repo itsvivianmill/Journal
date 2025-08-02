@@ -19,10 +19,10 @@ Creation date: Saturday August 2nd 2025
 	1. git clone [link]
 6. Switch to Issue branch
 	1. git switch [branch name]
-	2. code .
+	2. code . (VSCode must be installed)
 	    Or
 	3. code .
-	4. Select the desired branch at the bottom right corner
+	4. Select the desired branch at the bottom right corner of the VSCode screen
 7. Fix Issue
 8. Click Source Control
 	1. Add message, stage request, and commit
