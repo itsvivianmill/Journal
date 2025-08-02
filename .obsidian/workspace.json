@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 345.5
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -182,11 +182,12 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
-    "[Growlf.md",
+    "docs/Projects/BTC Raspberry Pi Club Server.md",
+    "docs/Projects/Github CICD Workflow.md",
     "docs/index.md",
-    "[Growlf]().md",
-    "docs/Projects/Github CICD Workflow.md.md",
     "docs/Glossary/git.md",
+    "[Growlf.md",
+    "[Growlf]().md",
     "Untitled",
     "Excalidraw/Drawing 2025-07-30 21.57.54.excalidraw.md",
     "Excalidraw",

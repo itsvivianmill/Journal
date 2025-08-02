@@ -8,6 +8,6 @@ Hi! This is my personal journal relating to technology. I am using Obsidian to c
 ## Who am I?
 My name is Vivian Miller and I am a student at BTC. I love technology, sewing, going hiking, playing card games and love supporting different communities such as LinuxFest Northwest, GenCyber, and many more!
 ## Recent Projects
-
-[[Github CICD Workflow.md]] - 
+[[Github CICD Workflow]] - 
+[[BTC Raspberry Pi Club Server]] - 
 

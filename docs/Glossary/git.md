@@ -1,7 +1,6 @@
 ---
 tags:
-  - github
-  - projects
+  - documentation
 Creation date: Wednesday July 30th 2025
 ---
 ---
