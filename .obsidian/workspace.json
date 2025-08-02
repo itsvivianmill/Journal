@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -182,8 +182,9 @@
   },
   "active": "f6621d033990682e",
   "lastOpenFiles": [
-    "[Growlf]().md",
+    "[Growlf.md",
     "docs/index.md",
+    "[Growlf]().md",
     "docs/Projects/Github CICD Workflow.md.md",
     "docs/Glossary/git.md",
     "Untitled",
