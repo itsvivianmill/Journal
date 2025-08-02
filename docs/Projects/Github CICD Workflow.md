@@ -2,6 +2,7 @@
 tags:
   - documentation
   - github
+  - informational
 Creation date: Saturday August 2nd 2025
 ---
 ## How to Resolve an Issue in Github
