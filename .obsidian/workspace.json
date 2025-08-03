@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Daily Journal/2025-08-02.md",
+                "file": "docs/Glossary/GitHub-Quartz-Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-02"
+              "title": "GitHub-Quartz-Obsidian"
             }
           }
         ]
@@ -193,10 +193,10 @@
   "active": "3d513623c1282712",
   "lastOpenFiles": [
     "docs/Glossary/Semaphore.md",
+    "docs/Daily Journal/2025-08-02.md",
     "docs/Glossary/GitHub-Quartz-Obsidian.md",
     "docs/Glossary/Git.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Daily Journal/2025-08-02.md",
     "docs/index.md",
     "docs/Projects/Github CICD Workflow.md",
     "Excalidraw/Drawing 2025-08-02 15.56.27.excalidraw.md",
