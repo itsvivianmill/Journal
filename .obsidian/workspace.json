@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Glossary/Semaphore.md",
+                "file": "docs/Glossary/GitHub-Quartz-Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore"
+              "title": "GitHub-Quartz-Obsidian"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e7d9478a2ea24e8",
+  "active": "3d513623c1282712",
   "lastOpenFiles": [
     "docs/Glossary/Semaphore.md",
     "docs/Glossary/Git.md",
