@@ -1,7 +1,7 @@
 Semaphore UI is a modern web interface for managing DevOps tools. It enables users to:
-- Run **Ansible**, **Terraform/OpenTofu**, **Bash**, and **PowerShell** scripts.
-- Get **notifications** on failed tasks.
-- **Control access** to the deployment system.
+- Run **Ansible**, Terraform/OpenTofu, Bash, and PowerShell scripts.
+- Get notifications on failed tasks.
+- Control access to the deployment system.
 ### Key Aspects of Semaphore:
 - **Projects**: 
 	Groups of related resources and configurations.
