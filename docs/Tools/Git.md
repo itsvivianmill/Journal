@@ -2,11 +2,12 @@
 tags:
   - informational
   - github
+  - tools
 Creation date: Wednesday July 30th 2025
 ---
 As in [GitHub](https://github.com) - but certainly not limited to just that well known remote repository.  Git is a free and open-source distributed version control system (DVCS) designed to manage changes in source code during software development. It allows multiple developers to collaborate on the same project efficiently by tracking modifications, enabling easy reversion to previous versions, and facilitating the merging of different contributions.
 
-Key aspects of Git:
+#### Key aspects of Git
 - [ Version Control](https://www.google.com/search?num=10&newwindow=1&cs=1&sca_esv=04212f82de24ae4c&sxsrf=AE3TifNIU-Ouy-9L8vfGuJX86i2E-_vemQ%3A1753233843968&q=Version+Control&sa=X&ved=2ahUKEwis_4mD6dGOAxXyBzQIHURbOyMQxccNegQIEBAD&mstk=AUtExfBnmKLeeI9A3VpAOr971Ek-FCEmvCX6qe5qUSnnHIXTOBWkun7-AYGqgg3NskPF98uExQ8XuicDiA_WlE_t5XP4owg-jpMLVXHvM2dfvUhJRy1FRhnV9lSxOOnmnyiPnQuxsg00bOw1xLesKxMB-bmcMhKhQ4tgJkgvqNnmkmQXMoM&csui=3)
     Git records every change made to a project's files, creating a history of snapshots (called "commits"). This allows developers to track modifications, see who made what changes, and revert to any previous state of the project.
 - [Distributed Nature](https://www.google.com/search?num=10&newwindow=1&cs=1&sca_esv=04212f82de24ae4c&sxsrf=AE3TifNIU-Ouy-9L8vfGuJX86i2E-_vemQ%3A1753233843968&q=Distributed+Nature&sa=X&ved=2ahUKEwis_4mD6dGOAxXyBzQIHURbOyMQxccNegQIFBAD&mstk=AUtExfBnmKLeeI9A3VpAOr971Ek-FCEmvCX6qe5qUSnnHIXTOBWkun7-AYGqgg3NskPF98uExQ8XuicDiA_WlE_t5XP4owg-jpMLVXHvM2dfvUhJRy1FRhnV9lSxOOnmnyiPnQuxsg00bOw1xLesKxMB-bmcMhKhQ4tgJkgvqNnmkmQXMoM&csui=3)
