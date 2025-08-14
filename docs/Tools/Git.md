@@ -3,9 +3,8 @@ tags:
   - informational
   - tools
   - github
-creation date: Wednesday 30th July 2025 21:08:25
+creation date: Wednesday 30th July 2025
 ---
-
 As in [GitHub](https://github.com) - but certainly not limited to just that well known remote repository.  Git is a free and open-source distributed version control system (DVCS) designed to manage changes in source code during software development. It allows multiple developers to collaborate on the same project efficiently by tracking modifications, enabling easy reversion to previous versions, and facilitating the merging of different contributions.
 
 #### Key aspects of Git

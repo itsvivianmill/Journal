@@ -3,7 +3,7 @@ tags:
   - documentation
   - informational
   - github
-creation date: Wednesday 30th July 2025 21:23:21
+creation date: Wednesday 30th July 2025
 ---
 ##  How to Resolve an Issue in GitHub
 
@@ -17,7 +17,7 @@ creation date: Wednesday 30th July 2025 21:23:21
 	1. SSH
 	2. Copy and Paste the GitHub link
 5. On the terminal
-	1. git clone [link]
+	1. git clone [github link]
 6. Switch to Issue branch
 	1. git switch [branch name]
 	2. code . (Visual Studio Code must be installed)
