@@ -4,7 +4,6 @@ tags:
   - ansible
   - tools
 Creation date: Wednesday July 30th 2025
-modification date: <%+ tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 Semaphore UI is a modern web interface for managing DevOps tools. It enables users to:
 - Run **Ansible**, Terraform/OpenTofu, Bash, and PowerShell scripts.
