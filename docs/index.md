@@ -2,6 +2,7 @@
 tags:
   - about
 Creation date: Wednesday July 30th 2025
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 # Journal
 Hi! This is my personal journal relating to technology. I am using Obsidian to create and journal using the [[GitHub-Quartz-Obsidian]] to publish my journal. The template I used at the start is derived from the [Growlf](https://growlf.github.io/journal/) Github.
