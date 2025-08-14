@@ -1,1 +1,1 @@
-This repository is used to generate my [Vivian's Journal](https://itsvivianmill.github.io/journal) site.
+This repository is used to generate [Vivian's Journal](https://itsvivianmill.github.io/journal) site.
