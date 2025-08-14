@@ -1,7 +1,7 @@
 ---
 tags:
-  - github
   - instructions
+  - github
 Creation date: Wednesday July 30th 2025
 ---
 #### Step 1
@@ -22,7 +22,7 @@ Commit all of your changes and push them up to your repository. Watch the action
 
 #### Notes
 
-- You can deploy your page to a custom domain as well (i.e. `github.com/itsvivianmill/journal` instead of the default that it shows up as, which is `itsvivianmill.github.io/journal`)
+- You can deploy your page to a custom domain as well *(i.e. `github.com/itsvivianmill/journal` instead of the default that it shows up as, which is `itsvivianmill.github.io/journal`)*
 - If you want to customize your theme, look at my [quartz](https://github.com/growlf/journal/tree/main/.github/quartz) folder for an example, or look at the links below here.
 - Files and Folders are inherently hidden if nothing is contained in them
 

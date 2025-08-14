@@ -3,6 +3,7 @@ tags:
   - documentation
   - informational
   - github
+  - in-progress
 creation date: Wednesday 30th July 2025
 ---
 ##  How to Resolve an Issue in GitHub

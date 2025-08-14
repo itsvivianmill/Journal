@@ -6,5 +6,7 @@ tags:
   - networking
 Creation date: Wednesday August 6th 2025
 ---
+#### Requirements
+- Netacad or SkillsforAll account
 #### Links:
-- [Cisco Packet Tracer Download](https://www.netacad.com/resources/lab/cisco-packet-tracer-resources?courseLang=en-US)
+1. [Cisco Packet Tracer Download](https://www.netacad.com/resources/lab/cisco-packet-tracer-resources?courseLang=en-US)
