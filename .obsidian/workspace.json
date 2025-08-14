@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects/BTC Raspberry Pi Club Server.md",
+                "file": "Templates/Quick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BTC Raspberry Pi Club Server"
+              "title": "Quick"
             }
           }
         ],
@@ -222,10 +222,13 @@
   },
   "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
-    "docs/Instructions/GitHub-Quartz-Obsidian.md",
+    "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
+    "docs/Tools/Cisco Packet Tracer.md",
+    "docs/Projects/Github CICD Workflow.md",
+    "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "docs/Tools/Semaphore.md",
     "Templates/Quick.md",
     "docs/Tools/Loki.md",
@@ -234,12 +237,9 @@
     "docs/index.md",
     "2025-08-14.md",
     "docs/Tools/Git.md",
-    "docs/Tools/Cisco Packet Tracer.md",
     "docs/Tools/Grafana.md",
     "README.md",
     "Untitled.md",
-    "docs/Projects/Github CICD Workflow.md",
-    "docs/Projects/BTC Raspberry Pi Club Server.md",
     "Templates",
     "().md",
     "docs/Instructions",
