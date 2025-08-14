@@ -3,6 +3,7 @@ tags:
   - github
   - instructions
 Creation date: Wednesday July 30th 2025
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 #### Step 1
 Create a public [GitHub](https://github.com/) project and add a `docs` folder to it, a license, etc. Then clone it to your local system.

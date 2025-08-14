@@ -4,6 +4,7 @@ tags:
   - github
   - informational
 Creation date: Saturday August 2nd 2025
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 ##  How to Resolve an Issue in GitHub
 
