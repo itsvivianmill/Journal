@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,16 +193,16 @@
   },
   "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
+    "docs/Tools/Git.md",
+    "docs/Projects/Github CICD Workflow.md",
+    "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Loki.md",
     "docs/Tools/Grafana.md",
-    "docs/Tools/Git.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
-    "docs/Projects/Github CICD Workflow.md",
     "docs/Tools/Cisco Packet Tracer.md",
     "docs/Tools/Proxmox.md",
     "docs/Tools/Semaphore.md",
