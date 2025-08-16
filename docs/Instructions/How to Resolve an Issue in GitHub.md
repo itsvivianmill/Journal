@@ -1,9 +1,9 @@
 ---
 tags:
   - documentation
-  - informational
   - github
   - in-progress
+  - instructions
 creation date: Wednesday 30th July 2025
 ---
 Practical benefits for using Git or GitHub:

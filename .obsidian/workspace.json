@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,25 +191,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6b99aa7a0dd82cb",
+  "active": "1e7d9478a2ea24e8",
   "lastOpenFiles": [
     "docs/Tools/Grafana.md",
+    "docs/Tools/Semaphore.md",
     "docs/Tools/Git.md",
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "docs/Tools/Loki.md",
+    "docs/Tools/Prometheus.md",
     "docs/Tools/Docker.md",
     "docs/Tools/Cisco Packet Tracer.md",
-    "docs/Tools/Loki.md",
+    "docs/Tools/Technitium.md",
+    "docs/Tools/Proxmox.md",
+    "docs/Daily Journal/2025-08-02.md",
+    "docs/Daily Journal/2025-08-06.md",
+    "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-16.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Tools/Prometheus.md",
-    "docs/Tools/Proxmox.md",
-    "docs/Tools/Semaphore.md",
-    "docs/Tools/Technitium.md",
     "docs/index.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
-    "docs/Daily Journal/2025-08-13.md",
-    "docs/Daily Journal/2025-08-06.md",
-    "docs/Daily Journal/2025-08-02.md",
     "Templates/Quick.md",
     "README.md",
     "docs/Daily Journal/Untitled.md",
