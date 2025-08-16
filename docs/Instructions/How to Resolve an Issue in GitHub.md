@@ -6,8 +6,6 @@ tags:
   - in-progress
 creation date: Wednesday 30th July 2025
 ---
-##  How to Resolve an Issue in GitHub
-
 Practical benefits for using Git or GitHub:
 1. Version Control
 2. Backup & Security, Collaboration
