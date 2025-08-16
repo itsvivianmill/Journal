@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Daily Journal/2025-08-16.md",
+                "file": "docs/Instructions/GitHub-Quartz-Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
+              "title": "GitHub-Quartz-Obsidian"
             }
           }
         ]
@@ -191,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e7d9478a2ea24e8",
+  "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
+    "docs/Daily Journal/2025-08-16.md",
     "docs/Tools/Grafana.md",
     "docs/Tools/Semaphore.md",
     "docs/Tools/Git.md",
@@ -206,7 +207,6 @@
     "docs/Daily Journal/2025-08-02.md",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-13.md",
-    "docs/Daily Journal/2025-08-16.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/index.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
