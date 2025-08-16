@@ -27,7 +27,7 @@ creation date: Wednesday 30th July 2025
 	4. Select the desired branch at the bottom right corner of the VS-Code screen
 #### Resolve 
 1. Fix Issue
-#### Wrap-Up the 
+#### Wrap-Up
 1. Click Source Control
 	1. Add message, stage request, and commit
 2. Pull request the solution
