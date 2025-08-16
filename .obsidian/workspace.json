@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects/Github CICD Workflow.md",
+                "file": "docs/Daily Journal/2025-08-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github CICD Workflow"
+              "title": "2025-08-16"
             }
           }
         ]
@@ -193,14 +193,15 @@
   },
   "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
-    "docs/Tools/Git.md",
+    "docs/Daily Journal/2025-08-13.md",
+    "docs/Daily Journal/2025-08-16.md",
     "docs/Projects/Github CICD Workflow.md",
+    "docs/Tools/Git.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Loki.md",
     "docs/Tools/Grafana.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
     "docs/Tools/Cisco Packet Tracer.md",

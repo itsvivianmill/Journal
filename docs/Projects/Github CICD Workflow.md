@@ -43,10 +43,11 @@ The following steps are what I take to resolve existing issues with a GitHub org
 1. Fix Issue
 	1. Add and delete information to program files
 #### Wrap-Up
-1. Click Source Control
-	1. Add message, stage request, and commit
-2. Pull request the solution
+1. Push the changes to the GitHub for Review
+	1. Click `Source Control` on VS-Code
+	2. Add message, stage request, and commit
+2. On GitHub, pull request the solution
 	1. Assign someone to review the code
-	2. Add important information of what was changed
+	2. Add important information of what was changed to the files
 3. Review solution with a different person
 4. Commit solution to main branch after approval
