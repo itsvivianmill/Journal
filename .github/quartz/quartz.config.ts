@@ -39,7 +39,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           night: "#151313",
-          jet: "#2B2A26",
+          beige: "#F5F3E0",
           beige: "#F5F3E0",
           floralwhite: "#FCFBF1",
           beige: "#F5F3E0",
