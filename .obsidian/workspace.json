@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Tools/Grafana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Grafana"
             }
           }
         ]
@@ -193,24 +193,24 @@
   },
   "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
+    "docs/Tools/Git.md",
+    "docs/Tools/Docker.md",
+    "docs/Tools/Cisco Packet Tracer.md",
+    "docs/Tools/Loki.md",
+    "docs/Daily Journal/2025-08-16.md",
+    "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Proxmox.md",
     "docs/Tools/Semaphore.md",
     "docs/Tools/Technitium.md",
-    "docs/Tools/Loki.md",
+    "docs/index.md",
     "docs/Tools/Grafana.md",
-    "docs/Tools/Git.md",
-    "docs/Tools/Docker.md",
-    "docs/Tools/Cisco Packet Tracer.md",
-    "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
-    "docs/Daily Journal/2025-08-16.md",
     "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
     "Templates/Quick.md",
-    "docs/index.md",
     "README.md",
     "docs/Daily Journal/Untitled.md",
     "docs/Daily Journal/Untitled",
