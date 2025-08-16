@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           blackolive: "#46473F",
           jet: "#2E2C29",
           blackolive: "#46473F",
-          vanilla: "#FFEEA4",
+          battleshipgrey: "#989988",
           sage: "#E2E4CC",
         },
         darkMode: {
