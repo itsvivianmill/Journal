@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 222.5
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -191,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6b99aa7a0dd82cb",
+  "active": "1e7d9478a2ea24e8",
   "lastOpenFiles": [
     "docs/Tools/Proxmox.md",
     "docs/Daily Journal/2025-08-16.md",
