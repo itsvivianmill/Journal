@@ -191,10 +191,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e7d9478a2ea24e8",
+  "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
-    "docs/Tools/Proxmox.md",
+    "docs/Daily Journal/2025-08-13.md",
     "docs/Daily Journal/2025-08-16.md",
+    "docs/Tools/Proxmox.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "docs/Tools/Grafana.md",
     "docs/Tools/Semaphore.md",
@@ -207,7 +208,6 @@
     "docs/Tools/Technitium.md",
     "docs/Daily Journal/2025-08-02.md",
     "docs/Daily Journal/2025-08-06.md",
-    "docs/Daily Journal/2025-08-13.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/index.md",
     "Templates/Quick.md",
