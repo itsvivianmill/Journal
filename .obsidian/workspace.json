@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4d41cf9877c3704d",
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Daily Journal/2025-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-08-20"
             }
           },
           {
@@ -191,10 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e7d9478a2ea24e8",
+  "active": "e6b99aa7a0dd82cb",
   "lastOpenFiles": [
-    "docs/Daily Journal/2025-08-20.md",
     "docs/Daily Journal/2025-08-16.md",
+    "docs/Daily Journal/2025-08-20.md",
     "Excalidraw/Drawing 2025-08-20 17.21.08.excalidraw.md",
     "Excalidraw",
     "docs/Daily Journal/2025-08-13.md",
