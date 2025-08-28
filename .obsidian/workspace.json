@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "docs/Daily Journal/Untitled.base",
+                "file": "docs/Daily Journal/Table.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Table"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "docs/Daily Journal/Untitled.base"
+                "file": "docs/Daily Journal/Table.base"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -206,10 +206,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4607b8fe38a06c4a",
+  "active": "4aadd629dda3ca95",
   "lastOpenFiles": [
+    "docs/Daily Journal/2025-08-20.md",
+    "docs/Daily Journal/2025-08-27.md",
+    "docs/Daily Journal/Table.base",
     "README.md",
-    "docs/Daily Journal/Untitled.base",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
     "Untitled.md",
@@ -218,14 +220,12 @@
     "Untitled.canvas",
     "docs/Daily Journal/2025-08-16.md",
     "docs/Tools/Grafana.md",
-    "docs/Daily Journal/2025-08-20.md",
     "docs/Tools/Prometheus.md",
     "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "docs/Tools/Technitium.md",
     "docs/Tools/Untitled.md",
     "docs/Tools/Proxmox.md",
     "Templates/Quick.md",
-    "docs/Daily Journal/2025-08-27.md",
     "docs/Tools/Docker.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "Excalidraw/Drawing 2025-08-20 17.21.08.excalidraw.md",
