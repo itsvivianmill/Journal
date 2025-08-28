@@ -14,6 +14,7 @@ Things in Proxmox:
 	- LVMs
 	- ZFS
 - VLANs
+	- Zones
 - Firewalls
 #### Links
 1. 

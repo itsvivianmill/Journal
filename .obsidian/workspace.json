@@ -11,13 +11,14 @@
             "id": "4aadd629dda3ca95",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "docs/Daily Journal/Table.base",
-                "viewName": "Table"
+                "file": "docs/Learning Journal/2025-08-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Table"
+              "icon": "lucide-file",
+              "title": "2025-08-27"
             }
           }
         ]
@@ -176,7 +177,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "docs/Daily Journal/Table.base"
+                "file": "docs/Learning Journal/2025-08-27.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -208,38 +209,38 @@
   },
   "active": "4aadd629dda3ca95",
   "lastOpenFiles": [
-    "docs/Daily Journal/2025-08-20.md",
-    "docs/Daily Journal/2025-08-27.md",
-    "docs/Daily Journal/Table.base",
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "docs/Learning Journal/Table.base",
+    "docs/Learning Journal/2025-08-27.md",
+    "docs/Tools/Proxmox.md",
+    "docs/Tools/Docker.md",
+    "docs/Tools/Git.md",
+    "docs/Tools/Grafana.md",
+    "docs/Tools/Loki.md",
+    "docs/Tools/Prometheus.md",
+    "docs/Tools/Technitium.md",
+    "docs/Learning Journal/2025-08-20.md",
     "README.md",
-    "docs/Daily Journal/2025-08-06.md",
-    "docs/Daily Journal/2025-08-02.md",
+    "docs/Learning Journal/2025-08-06.md",
+    "docs/Learning Journal/2025-08-02.md",
     "Untitled.md",
-    "docs/Daily Journal/2025-08-13.md",
+    "docs/Learning Journal/2025-08-13.md",
     "docs/index.md",
     "Untitled.canvas",
-    "docs/Daily Journal/2025-08-16.md",
-    "docs/Tools/Grafana.md",
-    "docs/Tools/Prometheus.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
-    "docs/Tools/Technitium.md",
+    "docs/Learning Journal/2025-08-16.md",
     "docs/Tools/Untitled.md",
-    "docs/Tools/Proxmox.md",
     "Templates/Quick.md",
-    "docs/Tools/Docker.md",
     "docs/Instructions/GitHub-Quartz-Obsidian.md",
     "Excalidraw/Drawing 2025-08-20 17.21.08.excalidraw.md",
     "Excalidraw",
     "docs/Tools/Semaphore.md",
-    "docs/Tools/Git.md",
-    "docs/Tools/Loki.md",
     "docs/Tools/Cisco Packet Tracer.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "docs/Daily Journal/Untitled.md",
     "docs/Daily Journal/Untitled",
     "Templates",
     "docs/Instructions",
-    "docs/Daily Journal",
+    "docs/Learning Journal",
     "templates",
     "docs/Projects",
     "docs/Glossary/Untitled",
