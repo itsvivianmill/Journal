@@ -1,4 +1,5 @@
 {
   "folder": "docs/Daily Journal",
-  "template": "Templates/Quick"
+  "template": "Templates/Quick",
+  "autorun": false
 }

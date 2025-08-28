@@ -170,6 +170,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "193b918b69f8c72f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "docs/index.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 5
@@ -189,10 +201,11 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4aadd629dda3ca95",
+  "active": "1e7d9478a2ea24e8",
   "lastOpenFiles": [
     "Untitled.base",
     "docs/index.md",
