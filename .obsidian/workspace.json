@@ -13,7 +13,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "docs/Untitled.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
@@ -176,7 +176,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.base"
+                "file": "docs/Untitled.base"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -206,10 +206,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4aadd629dda3ca95",
+  "active": "4607b8fe38a06c4a",
   "lastOpenFiles": [
     "README.md",
-    "Untitled.base",
+    "docs/Untitled.base",
     "docs/Daily Journal/2025-08-06.md",
     "docs/Daily Journal/2025-08-02.md",
     "Untitled.md",
